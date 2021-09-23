@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ammanah</string>
+    <string name="slogan">“Trust” is a manifestation </string>
+
+    // String Button
+    <string name="btnsignin">SIGN IN</string>
+    <string name="btncontinue">CONTINUE</string>
+    <string name="btnsave">SAVE</string>
+    <string name="btndeveloper">Developer</string>
+
+    // String other
+    <string name="stringone">No One Goes \nBankrupt \nBecause \nOf Saving</string>
+    <string name="emailaddress">Email Address</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="fullname">Full Name</string>
+    <string name="yourpassion">Your Passion?</string>
+
+</resources>
