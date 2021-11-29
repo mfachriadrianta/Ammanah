@@ -119,14 +119,14 @@
         </LinearLayout>
 
         <include
-            android:id="@+id/progressBarSignin"
+            android:id="@+id/progress_Bar_Signin"
             layout="@layout/progress_btn_layout"
             />
 
     </LinearLayout>
 
     <TextView
-        android:id="@+id/btn_new_account"
+        android:id="@+id/txt_new_account"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="28dp"
